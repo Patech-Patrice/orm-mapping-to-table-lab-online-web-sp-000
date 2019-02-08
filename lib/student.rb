@@ -39,8 +39,8 @@ end
       new(name, grade).tap do |student|
 
       student.save
-    
     end
+  end
 
 
 
